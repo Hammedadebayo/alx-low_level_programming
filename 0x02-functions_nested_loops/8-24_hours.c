@@ -3,7 +3,7 @@
  * jack_bauer - prints the minutes of a day
  * Return: no return
  */
-voil jack_bauer(void)
+void jack_bauer(void)
 {
 	int a, b, c, d;
 
